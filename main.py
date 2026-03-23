@@ -41,7 +41,7 @@ else:
 
 # Ask to change language
 if input(lang['ui.lang.startchange'] + " Y/N: ").lower() == "y":
-    sellang = input(lang['ui.lang.avb'] + " " + cfg['Languages'] + ": ")
+    sellang = input(lang['ui.lang.avb'] + " " + ', '.join(cfg['Languages']) + ": ")
     loadlang()
     ld = 0
     for i in range(51):

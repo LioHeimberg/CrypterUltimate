@@ -6,7 +6,7 @@
     "Reverse": true,
     "AllowFile": false,
     "DefaultLanguage": "en",
-    "Languages": "de, en, fr, es, it",
+    "Languages": ["de", "en", "fr", "es", "it"],
 
     "Version": "0.0.5",
     "ToolName": "CrypterUltimate",
