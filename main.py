@@ -8,20 +8,20 @@ isfile = False
 ld = 0
 cfgpth = 'config/config.json'
 
-with open(cfgpth, 'r') as file:
+with open(cfgpth, 'r', encoding='utf-8') as file:
     cfg = json.load(file)
 
 sellang = cfg['DefaultLanguage']
 
 # load language file
 langpth = 'config/lang/'+ sellang + '.json'
-with open(langpth, 'r') as file:
+with open(langpth, 'r', encoding='utf-8') as file:
     lang = json.load(file)
 
 def loadlang():
     global lang, sellang
     langpth = 'config/lang/'+ sellang + '.json'
-    with open(langpth, 'r') as file:
+    with open(langpth, 'r', encoding='utf-8') as file:
         lang = json.load(file)
 
 for i in range(51):
@@ -51,5 +51,8 @@ if input(lang['ui.lang.startchange'] + " Y/N: ").lower() == "y":
     print(lang['ui.lang.change.succses'])
     time.sleep(1.5)
 
+print()
+print(lang['ui.startup.complete'])
+print("-----------------------------")
 ### StartUp Complete - Main block comming ###
 

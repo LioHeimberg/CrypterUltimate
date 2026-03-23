@@ -1,0 +1,9 @@
+{
+    "ui.startup.load": "Caricamento",
+    "ui.files.wip": "In corso",
+    "ui.files.deny": "La cifratura dei file è disabilitata",
+    "ui.lang.startchange": "Vuoi cambiare lingua ?",
+    "ui.lang.avb": "Per favore scrivi, le seguenti lingue sono disponibili :",
+    "ui.lang.change.succses": "La lingua è stata cambiata con successo !",
+    "ui.startup.complete": "Lo strumento è stato avviato con successo !"
+}

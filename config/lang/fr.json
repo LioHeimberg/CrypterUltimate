@@ -1,0 +1,9 @@
+{
+    "ui.startup.load": "Chargement",
+    "ui.files.wip": "Travail en cours",
+    "ui.files.deny": "Le chiffrement des fichiers est désactivé",
+    "ui.lang.startchange": "Voulez‑vous changer la langue ?",
+    "ui.lang.avb": "Veuillez taper, les langues suivantes sont disponibles :",
+    "ui.lang.change.succses": "La langue a été changée avec succès !",
+    "ui.startup.complete": "L'outil a démarré avec succès !"
+}

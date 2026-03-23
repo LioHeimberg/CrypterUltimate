@@ -5,6 +5,7 @@
     "ui.files.deny": "Encrypting Files is disabled",
     "ui.lang.startchange": "Do you want to change the language?",
     "ui.lang.avb": "Please type, there are the following languages:",
-    "ui.lang.change.succses": "The language has changed successfully!"
+    "ui.lang.change.succses": "The language has changed successfully!",
+    "ui.startup.complete": "The Tool has started successfully!"
 
 }

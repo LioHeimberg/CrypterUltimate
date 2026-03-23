@@ -5,6 +5,7 @@
     "ui.files.deny": "Du kannst im Moment keine Dateien Verschluesseln",
     "ui.lang.startchange": "Willst du die Sprache Wechseln?",
     "ui.lang.avb": "Bitte tippe ein, es gibt folgende Sprachen:",
-    "ui.lang.change.succses": "Die Sprache wurde erfolgreich gewechselt!"
+    "ui.lang.change.succses": "Die Sprache wurde erfolgreich gewechselt!",
+    "ui.startup.complete": "Das Tool ist nun komplett geladen!"
 
 }
