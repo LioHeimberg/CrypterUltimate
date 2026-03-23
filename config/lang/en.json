@@ -1,0 +1,9 @@
+{
+
+    "ui.startup.load": "Loading",
+    "ui.files.wip": "Work in Progress",
+    "ui.files.deny": "Encrypting Files is disabled",
+    "ui.lang.startchange": "Do you want to change the Language?",
+    "ui.lang.avb": "Please type, there are the following Languages:"
+
+}

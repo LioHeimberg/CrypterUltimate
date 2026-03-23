@@ -1,0 +1,14 @@
+{
+    "SeedMin" : 1,
+    "SeedMax": 999999,
+
+    "GlobalSecret": "MTQwNjg4Mjk5NTk5MjA1MTYwNjgyMDMyMA==",
+    "Reverse": true,
+    "AllowFile": false,
+    "DefaultLanguage": "de",
+    "Languages": "de, en",
+
+    "Version": "0.0.5",
+    "ToolName": "CrypterUltimate",
+    "Credits": "Lio H."
+}
