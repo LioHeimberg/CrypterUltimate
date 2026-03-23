@@ -17,6 +17,7 @@ with open(langpth, 'r') as file:
     lang = json.load(file)
 
 def loadlang():
+    global lang, sellang
     langpth = 'config/lang/'+ sellang + '.json'
     with open(langpth, 'r') as file:
         lang = json.load(file)
